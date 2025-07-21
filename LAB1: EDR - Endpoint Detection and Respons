@@ -1,2 +1,12 @@
-# Lab1: EDR
-link: https://app.letsdefend.io/endpoint
+# Lab1: EDR (link: https://app.letsdefend.io/endpoint)
+
+- Go to Endpoint Security Tab
+- All Endpoint devices will be listed here. You can pick one or search of your choice
+- Review the Endpoint Information
+- Check and review the process for any suspicious or unsual activities
+- Click the process to expand and review it
+- After Analysis > click on Network Analysis Tab
+- Check Event Times to identify suspicious connections
+- Click on Terminal History Tab
+- Navigate to Browser History > Identify malicious files from untrusted sources
+- Now that you’ve identified it as malicious, you must isolate it. To Isolate the endpoint > go to Endpoint Security and select the device> Click Containtment
